@@ -1,0 +1,12 @@
+.card{
+ display: inline-block;
+ background-color:#cb6464;
+ color: #132043;
+ font-weight: bold;
+ border-radius: 9px;
+ text-align: center;
+ padding: 5px;
+}
+h2{
+ color: #FFF0CE;
+}
